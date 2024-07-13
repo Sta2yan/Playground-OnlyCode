@@ -1,0 +1,16 @@
+{
+    "name": "Agava.DroppedItems.Sample",
+    "rootNamespace": "Agava.DroppedItems.Sample",
+    "references": [
+        "Agava.DroppedItems"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

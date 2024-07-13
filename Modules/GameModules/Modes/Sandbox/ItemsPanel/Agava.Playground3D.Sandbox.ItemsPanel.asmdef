@@ -1,0 +1,16 @@
+{
+    "name": "Agava.Playground3D.Sandbox.ItemsPanel",
+    "rootNamespace": "Agava.Playground3D.Sandbox.ItemsPanel",
+    "references": [
+        "GUID:7f74f55b46b6e48e3960e719329fb3c6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

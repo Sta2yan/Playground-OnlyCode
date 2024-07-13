@@ -1,0 +1,18 @@
+{
+    "name": "Agava.Playground3D.OnlyUp.Utils",
+    "rootNamespace": "Agava.Playground3D.OnlyUp.Utils",
+    "references": [
+        "GUID:9f7c6939a0e0edd49aeef9fa6451bdf6",
+        "GUID:254e5701104c00c47a061e92985d68f5",
+        "GUID:d473f17951ee55045b1fb25f528e5113"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

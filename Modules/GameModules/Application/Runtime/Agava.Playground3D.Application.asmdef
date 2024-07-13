@@ -1,0 +1,20 @@
+{
+    "name": "Agava.Playground3D.Application",
+    "rootNamespace": "Agava.Playground3D.Application",
+    "references": [
+        "GUID:cd70041a02fb86b469eb281c1795b6d2",
+        "GUID:f19974f7a89063644a97d09a3da95461",
+        "GUID:ef7e0e3eb213f324c87b70a782844fb6",
+        "GUID:218c8d088c76f5f45b9b3de347da2c05",
+        "GUID:dd1e5f26dded13d4f9ad498053818434"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

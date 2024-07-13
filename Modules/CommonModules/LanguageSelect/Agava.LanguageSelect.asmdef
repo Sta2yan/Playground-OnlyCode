@@ -1,0 +1,17 @@
+{
+    "name": "Agava.LanguageSelect",
+    "rootNamespace": "Agava.LanguageSelect",
+    "references": [
+        "GUID:82c7e6eac44d7e048b22ad98800dcfc7",
+        "GUID:218c8d088c76f5f45b9b3de347da2c05"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

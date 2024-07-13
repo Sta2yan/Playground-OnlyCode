@@ -1,0 +1,20 @@
+{
+    "name": "Agava.Playground3D.Dynamite",
+    "rootNamespace": "Agava.Playground3D.Dynamite",
+    "references": [
+        "GUID:7ec221294314db141a66128623fb751a",
+        "GUID:877e7673ce91e874ba15af4d057a82f0",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:783fe14ea5283a143b8b9039f95e2501",
+        "GUID:d473f17951ee55045b1fb25f528e5113"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

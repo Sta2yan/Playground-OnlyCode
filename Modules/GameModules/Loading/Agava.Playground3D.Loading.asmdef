@@ -1,0 +1,17 @@
+{
+    "name": "Agava.Playground3D.Loading",
+    "rootNamespace": "Agava.Playground3D.Loading",
+    "references": [
+        "GUID:f19974f7a89063644a97d09a3da95461",
+        "GUID:104f163656d897243ba85333bba5681f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

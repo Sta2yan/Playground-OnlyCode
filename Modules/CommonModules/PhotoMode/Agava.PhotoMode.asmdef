@@ -1,0 +1,16 @@
+{
+    "name": "Agava.PhotoMode",
+    "rootNamespace": "Agava.PhotoMode",
+    "references": [
+        "Agava.Customization"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Agava.Playground3D.MainMenu",
+    "rootNamespace": "Agava.Playground3D.MainMenu",
+    "references": [
+        "GUID:f19974f7a89063644a97d09a3da95461",
+        "GUID:cf3f8e0bf2a2149139b68ae7909b37d3",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f1f474a186721644d9c56404a25e1bb3",
+        "GUID:104f163656d897243ba85333bba5681f",
+        "GUID:0488c14c41f2a5847aedf65852a956fd",
+        "GUID:4de8deb4115ec9443b21965ac35efae9",
+        "GUID:cd70041a02fb86b469eb281c1795b6d2",
+        "GUID:783fe14ea5283a143b8b9039f95e2501",
+        "GUID:95e3c624f78f8144390156863a799b6d",
+        "GUID:d473f17951ee55045b1fb25f528e5113"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

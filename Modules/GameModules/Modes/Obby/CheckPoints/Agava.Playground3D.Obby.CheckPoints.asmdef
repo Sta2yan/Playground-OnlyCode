@@ -1,0 +1,17 @@
+{
+    "name": "Agava.Playground3D.Obby.CheckPoints",
+    "rootNamespace": "Agava.Playground3D.Obby.CheckPoints",
+    "references": [
+        "GUID:b958c500e46e00d4fa831c3a08f4c695",
+        "GUID:254e5701104c00c47a061e92985d68f5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

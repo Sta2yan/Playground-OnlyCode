@@ -1,0 +1,16 @@
+{
+    "name": "Agava.Playground3D.Obby.Metrica",
+    "rootNamespace": "Agava.Playground3D.Obby.Metrica",
+    "references": [
+        "GUID:cb5408398679bff4cba63c0ea6851f2c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

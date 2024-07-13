@@ -1,0 +1,19 @@
+{
+    "name": "Agava.Playground3D.RespawnLogic",
+    "rootNamespace": "Agava.Playground3D.RespawnLogic",
+    "references": [
+        "GUID:7ec221294314db141a66128623fb751a",
+        "GUID:b958c500e46e00d4fa831c3a08f4c695",
+        "GUID:4de8deb4115ec9443b21965ac35efae9",
+        "GUID:95e3c624f78f8144390156863a799b6d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

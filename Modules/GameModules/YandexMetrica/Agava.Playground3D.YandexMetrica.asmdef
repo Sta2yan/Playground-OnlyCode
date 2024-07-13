@@ -1,0 +1,20 @@
+{
+    "name": "Agava.Playground3D.YandexMetrica",
+    "rootNamespace": "Agava.Playground3D.YandexMetrica",
+    "references": [
+        "GUID:5486940dd4146634f9d474c1c474551e",
+        "GUID:dd1e5f26dded13d4f9ad498053818434",
+        "GUID:4a3533af54b19c148b292d4a1ea9c229",
+        "GUID:cd70041a02fb86b469eb281c1795b6d2",
+        "GUID:f19974f7a89063644a97d09a3da95461"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Agava.Editor",
+    "rootNamespace": "Agava.Editor",
+    "references": [
+        "GUID:877e7673ce91e874ba15af4d057a82f0",
+        "GUID:e63e6f635c65d48458c5a22000478a64"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

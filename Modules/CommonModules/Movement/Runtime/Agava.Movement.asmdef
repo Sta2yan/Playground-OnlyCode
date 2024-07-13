@@ -1,0 +1,17 @@
+{
+    "name": "Agava.Movement",
+    "rootNamespace": "Agava.Movement",
+    "references": [
+        "GUID:8ba98092718d270459708b786f52658a",
+        "GUID:cd70041a02fb86b469eb281c1795b6d2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

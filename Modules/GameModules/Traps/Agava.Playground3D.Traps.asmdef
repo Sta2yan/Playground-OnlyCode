@@ -1,0 +1,17 @@
+{
+    "name": "Agava.Playground3D.Traps",
+    "rootNamespace": "Agava.Playground3D.Traps",
+    "references": [
+        "GUID:7ec221294314db141a66128623fb751a",
+        "GUID:b17c5c416a00fe343ba60978ea346d5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Agava.Playground3D.Sandbox.Interface",
+    "rootNamespace": "Agava.Playground3D.Sandbox.Interface",
+    "references": [
+        "GUID:ac687d6164853024f88eda20a86eecaf",
+        "GUID:877e7673ce91e874ba15af4d057a82f0",
+        "GUID:94a954e58998ea94da1e8077bd9817a4",
+        "GUID:a7b19f45da8674995b3a0285d72d831e",
+        "GUID:0488c14c41f2a5847aedf65852a956fd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

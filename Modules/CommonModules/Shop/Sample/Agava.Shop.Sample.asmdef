@@ -1,0 +1,19 @@
+{
+    "name": "Agava.Shop.Sample",
+    "rootNamespace": "Agava.Shop.Sample",
+    "references": [
+        "GUID:7f74f55b46b6e48e3960e719329fb3c6",
+        "GUID:a7b19f45da8674995b3a0285d72d831e",
+        "GUID:d91d37267c3834096adfbd69bbd1591a",
+        "GUID:d473f17951ee55045b1fb25f528e5113"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

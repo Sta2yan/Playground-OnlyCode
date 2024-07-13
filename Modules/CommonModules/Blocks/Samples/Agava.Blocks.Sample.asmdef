@@ -1,0 +1,18 @@
+{
+    "name": "Agava.Blocks.Sample",
+    "rootNamespace": "Agava.Blocks.Sample",
+    "references": [
+        "GUID:877e7673ce91e874ba15af4d057a82f0",
+        "GUID:ac687d6164853024f88eda20a86eecaf",
+        "GUID:94a954e58998ea94da1e8077bd9817a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Agava.Customization",
+    "rootNamespace": "Agava.Customization",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:cd70041a02fb86b469eb281c1795b6d2",
+        "GUID:4de8deb4115ec9443b21965ac35efae9",
+        "GUID:783fe14ea5283a143b8b9039f95e2501"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

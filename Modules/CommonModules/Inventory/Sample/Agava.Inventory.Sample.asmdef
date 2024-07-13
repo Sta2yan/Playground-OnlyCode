@@ -1,0 +1,16 @@
+{
+    "name": "Agava.Inventory.Sample",
+    "rootNamespace": "Agava.Inventory.Sample",
+    "references": [
+        "GUID:a7b19f45da8674995b3a0285d72d831e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

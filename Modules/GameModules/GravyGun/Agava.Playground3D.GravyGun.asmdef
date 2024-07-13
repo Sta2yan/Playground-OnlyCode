@@ -1,0 +1,23 @@
+{
+    "name": "Agava.Playground3D.GravyGun",
+    "rootNamespace": "Agava.Playground3D.GravyGun",
+    "references": [
+        "GUID:cc48b19ed5c50564e80f41f8c4c03e00",
+        "GUID:ac687d6164853024f88eda20a86eecaf",
+        "GUID:3057659b8e3931a478fb8f8488c960ed",
+        "GUID:f1f474a186721644d9c56404a25e1bb3",
+        "GUID:94a954e58998ea94da1e8077bd9817a4",
+        "GUID:95e3c624f78f8144390156863a799b6d",
+        "GUID:7ec221294314db141a66128623fb751a",
+        "GUID:d473f17951ee55045b1fb25f528e5113"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

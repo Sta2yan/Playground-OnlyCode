@@ -1,0 +1,33 @@
+{
+    "name": "Agava.Playground3D.Bots",
+    "rootNamespace": "Agava.Playground3D.Bots",
+    "references": [
+        "GUID:7ec221294314db141a66128623fb751a",
+        "GUID:efa45043feb7e4147a305b73b5cea642",
+        "GUID:94a954e58998ea94da1e8077bd9817a4",
+        "GUID:ac687d6164853024f88eda20a86eecaf",
+        "GUID:492c4f027e466f2459ba8bd3d7104e77",
+        "GUID:95e3c624f78f8144390156863a799b6d",
+        "GUID:877e7673ce91e874ba15af4d057a82f0",
+        "GUID:b1a5816ecfa7d4eeabdc90f26638680a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:cf3f8e0bf2a2149139b68ae7909b37d3",
+        "GUID:f1f474a186721644d9c56404a25e1bb3",
+        "GUID:3057659b8e3931a478fb8f8488c960ed",
+        "GUID:5e502c21dc682bc48acbd714578cd9ad",
+        "GUID:4c53cbb8a62f77340ae5f45967d1f0f2",
+        "GUID:76da4255af93a1a40957200b0a2860b1",
+        "GUID:fed024dc0c604b444b3385281cd04303",
+        "GUID:d473f17951ee55045b1fb25f528e5113",
+        "GUID:ceac5977807fe824ba70587c997048ed"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

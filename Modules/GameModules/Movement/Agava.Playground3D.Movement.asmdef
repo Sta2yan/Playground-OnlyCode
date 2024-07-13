@@ -1,0 +1,18 @@
+{
+    "name": "Agava.Playground3D.Movement",
+    "rootNamespace": "Agava.Playground3D.Movement",
+    "references": [
+        "GUID:ac687d6164853024f88eda20a86eecaf",
+        "GUID:95e3c624f78f8144390156863a799b6d",
+        "GUID:f1f474a186721644d9c56404a25e1bb3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

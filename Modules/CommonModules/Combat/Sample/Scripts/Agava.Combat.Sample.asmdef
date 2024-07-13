@@ -1,0 +1,14 @@
+{
+    "name": "Agava.Combat.Sample",
+    "rootNamespace": "Agava.Combat.Sample",
+    "references": ["GUID:7ec221294314db141a66128623fb751a"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

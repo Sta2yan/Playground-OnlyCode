@@ -1,0 +1,27 @@
+{
+    "name": "Agava.Playground3D.BlockRouterFactories",
+    "rootNamespace": "Agava.Playground3D.BlockRouterFactories",
+    "references": [
+        "GUID:f1f474a186721644d9c56404a25e1bb3",
+        "GUID:ac687d6164853024f88eda20a86eecaf",
+        "GUID:a234a3568ba2ef946a0aa38720131064",
+        "GUID:877e7673ce91e874ba15af4d057a82f0",
+        "GUID:3057659b8e3931a478fb8f8488c960ed",
+        "GUID:a7b19f45da8674995b3a0285d72d831e",
+        "GUID:95e3c624f78f8144390156863a799b6d",
+        "GUID:94a954e58998ea94da1e8077bd9817a4",
+        "GUID:023b1c38632814fceae2de2bfce56b97",
+        "GUID:783fe14ea5283a143b8b9039f95e2501",
+        "GUID:d473f17951ee55045b1fb25f528e5113",
+        "GUID:a313b8c3db053e740a3f1ddab574734f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

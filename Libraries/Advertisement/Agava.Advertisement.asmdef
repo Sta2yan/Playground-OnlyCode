@@ -1,0 +1,18 @@
+{
+    "name": "Agava.Advertisement",
+    "rootNamespace": "Agava.Advertisement",
+    "references": [
+        "GUID:ef7e0e3eb213f324c87b70a782844fb6",
+        "GUID:b0231c70e1748cd4592184cbc0511c8e",
+        "GUID:783fe14ea5283a143b8b9039f95e2501"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

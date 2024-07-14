@@ -1,0 +1,24 @@
+{
+    "name": "Agava.Playground3D.CombatRouterFactories",
+    "rootNamespace": "Agava.Playground3D.CombatRouterFactories",
+    "references": [
+        "GUID:21262ab715977834a88e723a4fd32cc9",
+        "GUID:f1f474a186721644d9c56404a25e1bb3",
+        "GUID:ac687d6164853024f88eda20a86eecaf",
+        "GUID:7ec221294314db141a66128623fb751a",
+        "GUID:95e3c624f78f8144390156863a799b6d",
+        "GUID:3057659b8e3931a478fb8f8488c960ed",
+        "GUID:783fe14ea5283a143b8b9039f95e2501",
+        "GUID:104f163656d897243ba85333bba5681f",
+        "GUID:d473f17951ee55045b1fb25f528e5113"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

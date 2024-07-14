@@ -1,0 +1,21 @@
+{
+    "name": "Agava.Playground3D.ShopRouterFactories",
+    "rootNamespace": "Agava.Playground3D.ShopRouterFactories",
+    "references": [
+        "GUID:f1f474a186721644d9c56404a25e1bb3",
+        "GUID:a7b19f45da8674995b3a0285d72d831e",
+        "GUID:94a954e58998ea94da1e8077bd9817a4",
+        "GUID:7f74f55b46b6e48e3960e719329fb3c6",
+        "GUID:3bbcfb62a0571244eab75cd5106b4ba5",
+        "GUID:ac687d6164853024f88eda20a86eecaf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

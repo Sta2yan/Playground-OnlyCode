@@ -1,0 +1,16 @@
+{
+    "name": "Agava.Input",
+    "rootNamespace": "Agava.Input",
+    "references": [
+        "GUID:104f163656d897243ba85333bba5681f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

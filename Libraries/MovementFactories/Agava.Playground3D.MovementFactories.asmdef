@@ -1,0 +1,19 @@
+{
+    "name": "Agava.Playground3D.MovementFactories",
+    "rootNamespace": "Agava.Playground3D.MovementFactories",
+    "references": [
+        "GUID:f1f474a186721644d9c56404a25e1bb3",
+        "GUID:95e3c624f78f8144390156863a799b6d",
+        "GUID:6eb6cd8897599964aa7845bf5797c07c",
+        "GUID:ac687d6164853024f88eda20a86eecaf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Agava.MetricaTimer",
+    "rootNamespace": "Agava.MetricaTimer",
+    "references": [
+        "GUID:cd70041a02fb86b469eb281c1795b6d2",
+        "GUID:f19974f7a89063644a97d09a3da95461"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

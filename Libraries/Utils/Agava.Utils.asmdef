@@ -1,0 +1,16 @@
+{
+    "name": "Agava.Utils",
+    "rootNamespace": "Agava.Utils",
+    "references": [
+        "GUID:783fe14ea5283a143b8b9039f95e2501"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
